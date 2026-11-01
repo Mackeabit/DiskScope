@@ -12,7 +12,7 @@ Windows용 읽기 전용 디스크 공간 탐색기입니다. 일반 권한으�
 
 [Windows x64 ZIP 다운로드](https://github.com/Mackeabit/DiskScope/releases/download/v0.1.0-preview.1/DiskScope-0.1.0-preview.1-win-x64.zip) · [SHA-256 확인](https://github.com/Mackeabit/DiskScope/releases/download/v0.1.0-preview.1/SHA256SUMS.txt) · [릴리스 안내](https://github.com/Mackeabit/DiskScope/releases/tag/v0.1.0-preview.1)
 
-ZIP을 **폴더 전체로 압축 해제**하고 `DiskScope.App.exe`를 실행하세요. 함께 들어 있는 DLL·Assets·licenses를 유지해야 합니다. 관리자 권한이나 폰트 설치는 필요하지 않습니다.
+ZIP을 **전체 압축 해제**하고 최상위 `DiskScope.App.exe`를 실행하세요. 함께 있는 `app` 폴더에는 DLL·런타임·Assets·licenses가 들어 있으므로 그대로 유지해야 합니다. README와 약관은 `app` 안에 있습니다. 관리자 권한이나 폰트 설치는 필요하지 않습니다.
 
 1. 드라이브나 폴더를 선택하고 **스캔 시작**을 누릅니다. **취소**하면 확인한 부분 결과를 남깁니다.
 2. 폴더를 더블클릭하거나 Enter로 들어가고 Alt+↑로 올라갑니다. 검색·확장자·큰 파일 목록으로 결과를 좁힙니다.
