@@ -1,0 +1,185 @@
+[
+  {
+    "package": "CommunityToolkit.Mvvm",
+    "version": "8.4.2",
+    "licenseType": "expression",
+    "license": "MIT",
+    "notices": [
+      "CommunityToolkit.Mvvm/8.4.2/License.md"
+    ]
+  },
+  {
+    "package": "Microsoft.Graphics.Win2D",
+    "version": "1.4.0",
+    "licenseType": "legacy-url",
+    "license": "http://www.microsoft.com/web/webpi/eula/eula_win2d_10012014.htm",
+    "notices": []
+  },
+  {
+    "package": "Microsoft.NETCore.App.Runtime.win-x64",
+    "version": "10.0.14",
+    "licenseType": "expression",
+    "license": "MIT",
+    "notices": [
+      "Microsoft.NETCore.App.Runtime.win-x64/10.0.14/LICENSE.TXT",
+      "Microsoft.NETCore.App.Runtime.win-x64/10.0.14/THIRD-PARTY-NOTICES.TXT"
+    ]
+  },
+  {
+    "package": "Microsoft.Web.WebView2",
+    "version": "1.0.3719.77",
+    "licenseType": "file",
+    "license": "LICENSE.txt",
+    "notices": [
+      "Microsoft.Web.WebView2/1.0.3719.77/LICENSE.txt",
+      "Microsoft.Web.WebView2/1.0.3719.77/NOTICE.txt"
+    ]
+  },
+  {
+    "package": "Microsoft.Windows.AI.MachineLearning",
+    "version": "2.1.74",
+    "licenseType": "file",
+    "license": "license.txt",
+    "notices": [
+      "Microsoft.Windows.AI.MachineLearning/2.1.74/license.txt"
+    ]
+  },
+  {
+    "package": "Microsoft.Windows.SDK.BuildTools.MSIX",
+    "version": "1.7.251221100",
+    "licenseType": "file",
+    "license": "sdk_license.txt",
+    "notices": [
+      "Microsoft.Windows.SDK.BuildTools.MSIX/1.7.251221100/NOTICE.txt",
+      "Microsoft.Windows.SDK.BuildTools.MSIX/1.7.251221100/sdk_license.txt"
+    ]
+  },
+  {
+    "package": "Microsoft.Windows.SDK.BuildTools",
+    "version": "10.0.28000.2957",
+    "licenseType": "legacy-url",
+    "license": "https://aka.ms/WinSDKLicenseURL",
+    "notices": []
+  },
+  {
+    "package": "Microsoft.Windows.SDK.NET.Ref",
+    "version": "10.0.26100.57",
+    "licenseType": "legacy-url",
+    "license": "https://aka.ms/WinSDKLicenseURL",
+    "notices": []
+  },
+  {
+    "package": "Microsoft.WindowsAppSDK.AI",
+    "version": "2.5.5",
+    "licenseType": "file",
+    "license": "license.txt",
+    "notices": [
+      "Microsoft.WindowsAppSDK.AI/2.5.5/license.txt"
+    ]
+  },
+  {
+    "package": "Microsoft.WindowsAppSDK.Base",
+    "version": "2.0.4",
+    "licenseType": "file",
+    "license": "license.txt",
+    "notices": [
+      "Microsoft.WindowsAppSDK.Base/2.0.4/license.txt",
+      "Microsoft.WindowsAppSDK.Base/2.0.4/NOTICE.txt"
+    ]
+  },
+  {
+    "package": "Microsoft.WindowsAppSDK.DWrite",
+    "version": "2.1.0",
+    "licenseType": "file",
+    "license": "license.txt",
+    "notices": [
+      "Microsoft.WindowsAppSDK.DWrite/2.1.0/license.txt"
+    ]
+  },
+  {
+    "package": "Microsoft.WindowsAppSDK.Foundation",
+    "version": "2.3.12",
+    "licenseType": "file",
+    "license": "license.txt",
+    "notices": [
+      "Microsoft.WindowsAppSDK.Foundation/2.3.12/license.txt"
+    ]
+  },
+  {
+    "package": "Microsoft.WindowsAppSDK.InteractiveExperiences",
+    "version": "2.1.9",
+    "licenseType": "file",
+    "license": "license.txt",
+    "notices": [
+      "Microsoft.WindowsAppSDK.InteractiveExperiences/2.1.9/license.txt"
+    ]
+  },
+  {
+    "package": "Microsoft.WindowsAppSDK.ML",
+    "version": "2.1.94",
+    "licenseType": "file",
+    "license": "license.txt",
+    "notices": [
+      "Microsoft.WindowsAppSDK.ML/2.1.94/license.txt"
+    ]
+  },
+  {
+    "package": "Microsoft.WindowsAppSDK.Runtime",
+    "version": "2.5.1",
+    "licenseType": "file",
+    "license": "license.txt",
+    "notices": [
+      "Microsoft.WindowsAppSDK.Runtime/2.5.1/license.txt",
+      "Microsoft.WindowsAppSDK.Runtime/2.5.1/NOTICE.txt"
+    ]
+  },
+  {
+    "package": "Microsoft.WindowsAppSDK.Search",
+    "version": "2.5.5",
+    "licenseType": "file",
+    "license": "license.txt",
+    "notices": [
+      "Microsoft.WindowsAppSDK.Search/2.5.5/license.txt"
+    ]
+  },
+  {
+    "package": "Microsoft.WindowsAppSDK.Widgets",
+    "version": "2.0.5",
+    "licenseType": "file",
+    "license": "license.txt",
+    "notices": [
+      "Microsoft.WindowsAppSDK.Widgets/2.0.5/license.txt"
+    ]
+  },
+  {
+    "package": "Microsoft.WindowsAppSDK.WinUI",
+    "version": "2.3.9",
+    "licenseType": "file",
+    "license": "license.txt",
+    "notices": [
+      "Microsoft.WindowsAppSDK.WinUI/2.3.9/license.txt",
+      "Microsoft.WindowsAppSDK.WinUI/2.3.9/NOTICE.txt",
+      "Microsoft.WindowsAppSDK.WinUI/2.3.9/tools/NOTICE.txt"
+    ]
+  },
+  {
+    "package": "Microsoft.WindowsAppSDK",
+    "version": "2.5.1",
+    "licenseType": "file",
+    "license": "license.txt",
+    "notices": [
+      "Microsoft.WindowsAppSDK/2.5.1/license.txt",
+      "Microsoft.WindowsAppSDK/2.5.1/NOTICE.txt"
+    ]
+  },
+  {
+    "package": "System.Numerics.Tensors",
+    "version": "9.0.0",
+    "licenseType": "expression",
+    "license": "MIT",
+    "notices": [
+      "System.Numerics.Tensors/9.0.0/LICENSE.TXT",
+      "System.Numerics.Tensors/9.0.0/THIRD-PARTY-NOTICES.TXT"
+    ]
+  }
+]

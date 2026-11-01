@@ -1,0 +1,42 @@
+DiskScope binary distribution — third-party terms
+Copyright (c) 2026 DiskScope contributors
+
+DiskScope's original code and artwork are licensed under the MIT License in
+LICENSE. Nothing in this notice narrows that MIT grant. Third-party components
+remain under their own terms; the complete application bundle is not licensed
+solely under MIT.
+
+Before using or redistributing the bundled Microsoft components, read and agree
+to their applicable license terms. If you do not agree, do not use or redistribute
+those components. This requirement applies to external end users as well as
+redistributors. The following full terms accompany this distribution:
+
+- Win2D 1.4.0: licenses/Microsoft.Graphics.Win2D/1.4.0/LICENSE.html
+  Readable copy: licenses/Microsoft.Graphics.Win2D/1.4.0/LICENSE.txt
+- Windows App SDK 2.5.1: licenses/Microsoft.WindowsAppSDK/2.5.1/LICENSE.txt
+- Other component terms and notices: THIRD-PARTY-NOTICES.md and licenses/
+- Pretendard Variable 1.3.9: licenses/Pretendard/1.3.9/OFL.txt
+
+The applicable Microsoft terms, including restrictions, warranty disclaimers,
+liability limitations and mandatory-law exceptions, are incorporated here for
+those Microsoft components. They are not replaced by the DiskScope MIT license.
+
+Redistributors must preserve the complete copyright, license and third-party
+notices, comply with each component's distribution conditions, and require
+their external end users and distributors to agree to terms protecting those
+components and Microsoft as required by the applicable Microsoft agreements.
+The Microsoft components are distributed as part of DiskScope for Windows;
+this bundle does not grant a right to offer them as a standalone SDK or to
+relicense them under MIT. Microsoft does not sponsor or endorse DiskScope.
+
+The full Microsoft terms include obligations for publishers, including the
+indemnity clauses in Win2D section 2.a.ii and Windows App SDK section 3.b.iii.
+Including this file does not discharge those obligations. Where a component's
+own terms or mandatory applicable law differ from this summary, they control.
+
+한국어 안내
+DiskScope 원본 코드와 아이콘은 MIT입니다. 포함된 Microsoft 바이너리와 폰트에는
+각 구성요소의 별도 약관이 적용됩니다. 사용·재배포 전에 위 원문 약관을 읽고
+동의해야 하며, 동의하지 않으면 해당 구성요소를 사용·재배포하지 마세요.
+재배포자는 약관과 고지를 유지하고 원문이 요구하는 이용자·재배포자 보호 조건을
+적용해야 합니다. 이 안내는 원문 약관이나 법률에 따른 권리를 대체하지 않습니다.

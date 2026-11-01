@@ -1,0 +1,66 @@
+{
+  "package": "Microsoft.Graphics.Win2D",
+  "version": "1.4.0",
+  "packageUrl": "https://www.nuget.org/packages/Microsoft.Graphics.Win2D/1.4.0",
+  "packageSha256": "E13866088B3C50205AAE36E9E4CB3C23B21D11C4B4590DDCBEAAFA9EA2C79F48",
+  "nuspecSha256": "CFE013F8ECD73F4E426B8F5F020D8CE2107F450A31E5FAFF3A0A08768DED07CA",
+  "declaredLicenseUrl": "http://www.microsoft.com/web/webpi/eula/eula_win2d_10012014.htm",
+  "requireLicenseAcceptance": true,
+  "license": "Microsoft Software License Terms — Microsoft Win2D (NuGet binaries; not the upstream source MIT license)",
+  "archiveUrl": "https://web.archive.org/web/20250313073221/http://www.microsoft.com/web/webpi/eula/eula_win2d_10012014.htm",
+  "rawArchiveUrl": "https://web.archive.org/web/20250313073221id_/http://www.microsoft.com/web/webpi/eula/eula_win2d_10012014.htm",
+  "archiveCaptureUtc": "2025-03-13T07:32:21Z",
+  "retrievedAtUtc": "2026-10-31T09:54:27.228927+00:00",
+  "files": [
+    {
+      "path": "LICENSE.html",
+      "sha256": "7B10B2C7D15A3062037D3820BFD5528235F8A287DED3D131E22C2F5286E61633",
+      "role": "Unmodified archived HTTP response body; original Windows-1252 HTML"
+    },
+    {
+      "path": "LICENSE.txt",
+      "sha256": "AFD1593CC3F3E4384AC3B9968E238033EC6DBB306B628DA77F5DCB39E1ADAE17",
+      "role": "UTF-8 paragraph transcription of LICENSE.html; whitespace normalized; all English and French terms retained"
+    }
+  ],
+  "officialBuildScript": {
+    "url": "https://github.com/microsoft/Win2D/blob/winappsdk/main/build/nuget/build-nupkg.cmd",
+    "gitBlobSha": "fcf39290076ed5df85ee609d0d0965660ccf0353",
+    "observedAt": "2026-10-31",
+    "finding": "Signed Microsoft binary builds set the same EULA URL and requireLicenseAcceptance=true; other builds set the upstream MIT URL."
+  },
+  "packageSourceRevision": {
+    "value": "57e06e2c24703526f500035129251d063881a44d",
+    "publicRevisionResolved": false,
+    "limit": "The package-recorded commit could not be resolved in the public GitHub repository. No exact-source or reproducible-build claim is made."
+  },
+  "packageSignature": {
+    "command": "tools/dotnet.ps1 nuget verify <Microsoft.Graphics.Win2D.1.4.0.nupkg> --all",
+    "verifiedAt": "2026-10-31",
+    "exitCode": 0,
+    "author": "Microsoft Corporation",
+    "repository": "NuGet.org Repository by Microsoft",
+    "limit": "Package integrity and signer verification; not a legal opinion or a new permission from the publisher."
+  },
+  "distributedFiles": [
+    {
+      "packagePath": "runtimes/win-x64/native/Microsoft.Graphics.Canvas.dll",
+      "distributedFile": "Microsoft.Graphics.Canvas.dll",
+      "sha256": "DB92EE35E344E2D1F67849BB4CD8DEB483F14D3D127BABA8606A88735406CCEB"
+    },
+    {
+      "packagePath": "lib/net6.0-windows10.0.19041.0/Microsoft.Graphics.Canvas.Interop.dll",
+      "distributedFile": "Microsoft.Graphics.Canvas.Interop.dll",
+      "sha256": "38BE44AB9E843CC6A3540F27EDE2799B2B67EF9DD60E458A70CDCDCD353E6A7F"
+    }
+  ],
+  "assessment": {
+    "status": "Conditional object-code redistribution grant recovered from the exact package-declared Microsoft EULA URL",
+    "sections": [
+      "Win2D 2.a.i: object code may be distributed with developed programs",
+      "Win2D 2.a.ii: significant functionality, protective downstream terms, program copyright notice, publisher indemnity",
+      "Win2D 2.a.iii: notices, trademarks, Windows-only platform and other distribution restrictions"
+    ],
+    "limits": "The live URL is broken. An archived Microsoft document is evidence of the terms, not a new written confirmation from Microsoft. All full terms apply; inclusion of a notice alone does not establish legally effective assent in every jurisdiction."
+  }
+}
